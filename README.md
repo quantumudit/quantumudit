@@ -9,14 +9,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Udit | LinkedIn" width="22px" src="Images/LinkedIn.svg"/>][linkedin]
-[<img align="left" alt="Udit | Twitter" width="22px" src="Images/Twitter.svg"/>][twitter]
-[<img align="left" alt="Udit | Data.World" width="22px" src="Images/DataWorld.svg"/>][data.world]
-[<img align="left" alt="Udit | YouTube" width="22px" src="Images/YouTube.svg"/>][youtube]
+[<img align="left" alt="Udit | LinkedIn" width="22px" src="Images/SocialMedia/LinkedIn.svg"/>][linkedin]
+[<img align="left" alt="Udit | Twitter" width="22px" src="Images/SocialMedia/Twitter.svg"/>][twitter]
+[<img align="left" alt="Udit | Data.World" width="22px" src="Images/SocialMedia/DataWorld.svg"/>][data.world]
+[<img align="left" alt="Udit | YouTube" width="22px" src="Images/SocialMedia/YouTube.svg"/>][youtube]
 
 <br />
 
-### Languages and Tools:
+### Tools & Technology:
+
+### Languages & Scripts:
 
 [linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
 [twitter]: https://twitter.com/quantumudit
