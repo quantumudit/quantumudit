@@ -20,6 +20,8 @@
 
 ### Languages & Scripts:
 
+<!-- Social Media Profile Links -->
+
 [linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
 [twitter]: https://twitter.com/quantumudit
 [data.world]: https://data.world/dataman-udit
