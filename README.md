@@ -6,7 +6,7 @@
 
 **I'm a data analytics & business intelligence consultant at PwC and my passion resonates with my profession too. I enjoy exploring data to get insights and create an impactful story out of it.**
 
-#### :mailbox: Reach me out!
+### :mailbox: Reach me out!
 
 [![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge](https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit)][twitter] [![Skype Badge](https://img.shields.io/badge/-quantumudit-00AFF0?style=flat&labelColor=00AFF0b&logo=skype&logoColor=white)][skype] [![Mail Badge](https://img.shields.io/badge/-quantumudit-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] [![YouTube Badge](https://img.shields.io/badge/-quantumdata-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube]
 
@@ -15,19 +15,19 @@
 - 🥅 2021 Goals: Contribute more to open source projects
 - ⚡ Fun fact: Apart from digging the data; I love to explore physics & philosophy
 
-#### Top Technologies
+### Top Technologies
 
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#)
 
-#### Tools & Tech
+### Tools & Tech
 
-#### Languages & Scripts
+### Languages & Scripts
 
-#### :octocat: GitHub Statistics
+### :octocat: GitHub Statistics
 
 ![Profile views](https://gpvc.arturio.dev/quantumudit) [![Repos Badge](https://badges.pufler.dev/repos/quantumudit)](https://badges.pufler.dev)
 
-![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats)
+![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quantumudit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
