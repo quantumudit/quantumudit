@@ -8,7 +8,7 @@
 
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge](https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit)][twitter] [![Skype Badge](https://img.shields.io/badge/-quantumudit-00AFF0?style=flat&labelColor=00AFF0b&logo=skype&logoColor=white)][skype] [![Mail Badge](https://img.shields.io/badge/-quantumudit-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail] [![YouTube Badge](https://img.shields.io/badge/-quantumdata-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube]
+[![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge](https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit)][twitter] [![Skype Badge](https://img.shields.io/badge/-quantumudit-00AFF0?style=flat&labelColor=00AFF0b&logo=skype&logoColor=white)][skype] [![YouTube Badge](https://img.shields.io/badge/-quantumdata-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][youtube] [![Mail Badge](https://img.shields.io/badge/-quantumudit@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other data nerds
@@ -21,17 +21,16 @@
 
 ### Tools & Tech
 
+[<img align="left" alt="alteryx" width="22px" src="images/ToolsTech/alteryx.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\azure-ai.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\azure-ml.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\azure-synapse.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\dax-studio.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\tabulareditor.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\jupyter.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\matlab.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\mysql.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\postgresql.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\sqlite.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\microstrategy.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\octave.svg" />](#) [<img align="left" alt="alteryx" width="22px" src="images\ToolsTech\qlik.svg" />](#)
+
 ### Languages & Scripts
 
 ### :octocat: GitHub Statistics
 
 ![Profile views](https://gpvc.arturio.dev/quantumudit) [![Repos Badge](https://badges.pufler.dev/repos/quantumudit)](https://badges.pufler.dev)
 
-![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quantumudit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumudit&show_icons=true&locale=en&layout=compact" alt="quantumudit" width=400px/></p>
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumudit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
 <summary>
@@ -43,6 +42,7 @@
 I love sharing knowledge and putting posts, blogs and videos together for helping other developers, data analyst and business intelligence enthusiasts.
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!-- Profile Links -->
@@ -72,6 +72,38 @@ I love sharing knowledge and putting posts, blogs and videos together for helpin
 
 <!-- Tools & Technology Links -->
 
+[alteryx]: images\ToolsTech\alteryx.svg
+[azure-ai]: images\ToolsTech\azure-ai.svg
+[azure-ml]: images\ToolsTech\azure-ml.svg
+[azure-synapse]: images\ToolsTech\azure-synapse.svg
+[dax-studio]: images\ToolsTech\dax-studio.svg
+[jupyter-notebooks]: images\ToolsTech\jupyter.svg
+[matlab]: images\ToolsTech\matlab.svg
+[microstrategy]: images\ToolsTech\microstrategy.svg
+[mysql]: images\ToolsTech\mysql.svg
+[ssms]: images\ToolsTech\
+[octave]: images\ToolsTech\octave.svg
+[tableau]: images\ToolsTech\
+[postgresql]: images\ToolsTech\postgresql.svg
+[powerbi]: images\ToolsTech\power-bi.svg
+[qlik]: images\ToolsTech\qlik.svg
+[sqlite]: images\ToolsTech\sqlite.svg
+[tabulareditor]: images\ToolsTech\tabulareditor.svg
+
+<!-- Languages & Scripts -->
+
+[html]: images\LangsScript\html.svg
+[css]: images\LangsScript\css.svg
+[javascript]: images\LangsScript\javascript.svg
+[python]: images\LangsScript\python.svg
+[powerquery]: images\LangsScript\power-query.svg
+[dax]: images\LangsScript\dax.svg
+[mdx]: images\LangsScript\
+[sql]: images\LangsScript\sql.svg
+[r]: images\LangsScript\r.svg
+[vba]: images\LangsScript\
+[git]: images\LangsScript\git.svg
+
 <!--  For later uses -->
 
 <!--
@@ -85,5 +117,9 @@ I love sharing knowledge and putting posts, blogs and videos together for helpin
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=quantumudit)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=quantumudit&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quantumudit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 -->
