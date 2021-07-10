@@ -15,17 +15,21 @@
 - 🥅 2021 Goals: Contribute more to open source projects
 - ⚡ Fun fact: Apart from digging the data; I love to explore physics & philosophy
 
-### Top Technologies
+### 👨🏽‍💻 Top Technologies
 
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#)
 
-### Tools & Tech
+### 🔧 Tools & Tech
 
-[<img align="left" alt="alteryx" width="22px" src="images/ToolsTech/alteryx.svg" />](#) [<img align="left" alt="azure-ai" width="25px" src="images\ToolsTech\azure-ai.svg" />](#) [<img align="left" alt="azure-ml" width="20px" src="images\ToolsTech\azure-ml.svg" />](#) [<img align="left" alt="azure-synapse" width="32px" src="images\ToolsTech\azure-synapse.svg" />](#) [<img align="left" alt="dax studio" width="22px" src="images\ToolsTech\dax-studio.svg" />](#) [<img align="left" alt="Tabular Editor" width="22px" src="images\ToolsTech\tabulareditor.svg" />](#) [<img align="left" alt="Jupyter Notebook" width="22px" src="images\ToolsTech\jupyter.svg" />](#) [<img align="left" alt="MATLAB" width="22px" src="images\ToolsTech\matlab.svg" />](#) [<img align="left" alt="Octave" width="22px" src="images\ToolsTech\octave.svg" />](#) [<img align="left" alt="MySQL" width="22px" src="images\ToolsTech\mysql.svg" />](#) [<img align="left" alt="PostgreSQL" width="22px" src="images\ToolsTech\postgresql.svg" />](#) [<img align="left" alt="SQLite" width="22px" src="images\ToolsTech\sqlite.svg" />](#) [<img align="left" alt="MicroStrategy" width="22px" src="images\ToolsTech\microstrategy.svg" />](#) [<img align="left" alt="Qlik" width="22px" src="images\ToolsTech\qlik.svg" />](#)
+[<img align="left" alt="alteryx" width="33px" src="images/ToolsTech/alteryx.svg" />](#) [<img align="left" alt="azure-ai" width="35px" src="images\ToolsTech\azure-ai.svg" />](#) [<img align="left" alt="azure-ml" width="30px" src="images\ToolsTech\azure-ml.svg" />](#) [<img align="left" alt="azure-synapse" width="39px" src="images\ToolsTech\azure-synapse.svg" />](#) [<img align="left" alt="dax studio" width="33px" src="images\ToolsTech\dax-studio.svg" />](#) [<img align="left" alt="Tabular Editor" width="33px" src="images\ToolsTech\tabulareditor.svg" />](#) [<img align="left" alt="Jupyter Notebook" width="33px" src="images\ToolsTech\jupyter.svg" />](#) [<img align="left" alt="MATLAB" width="33px" src="images\ToolsTech\matlab.svg" />](#) [<img align="left" alt="Octave" width="33px" src="images\ToolsTech\octave.svg" />](#) [<img align="left" alt="MySQL" width="40px" src="images\ToolsTech\mysql.svg" />](#) [<img align="left" alt="PostgreSQL" width="33px" src="images\ToolsTech\postgresql.svg" />](#) [<img align="left" alt="SQLite" width="33px" src="images\ToolsTech\sqlite.svg" />](#) [<img align="left" alt="MicroStrategy" width="33px" src="images\ToolsTech\microstrategy.svg" />](#) [<img align="left" alt="Qlik" width="33px" src="images\ToolsTech\qlik.svg" />](#)
 
 <br>
 
-### Languages & Scripts
+### 📜 Languages & Scripts
+
+[<img align="left" alt="HTML" width="37px" src="images\LangsScript\html.svg" />](#) [<img align="left" alt="CSS" width="33px" src="images\LangsScript\css.svg" />](#) [<img align="left" alt="Javascript" width="33px" src="images\LangsScript\javascript.svg" />](#) [<img align="left" alt="Python" width="33px" src="images\LangsScript\python.svg" />](#) [<img align="left" alt="R" width="33px" src="images\LangsScript\r.svg" />](#) [<img align="left" alt="SQL" width="33px" src="images\LangsScript\sql.svg" />](#) [<img align="left" alt="GIT" width="33px" src="images\LangsScript\git.svg" />](#) [<img align="left" alt="PowerQuery" width="33px" src="images\LangsScript\power-query.svg" />](#) [<img align="left" alt="DAX" width="33px" src="images\LangsScript\dax.svg" />](#)
+
+<br>
 
 ### :octocat: GitHub Statistics
 
@@ -36,7 +40,7 @@
 
 <details>
 <summary>
-    <strong>More stuff about me</strong>
+    <strong> :bulb: More stuff about me</strong>
 </summary>
 
 <br >
