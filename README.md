@@ -1,4 +1,4 @@
-## Hi there, I'm Udit <img src="images\waving-hand.gif" alt="hi" width="35px">
+## Hi there, I'm Udit <img src="images\waving-hand.gif" alt="hi" width="10px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
